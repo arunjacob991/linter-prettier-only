@@ -9,5 +9,6 @@
      "useTabs": false,
      "bracketSpacing": true,
      "arrowParens": "always",
-     "jsxBracketSameLine": false
+     "jsxBracketSameLine": false,
+     "react/jsx-max-props-per-line": [1, { "when": "always" }]
 }
